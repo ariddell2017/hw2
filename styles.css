@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  width: 960px;
+  margin: 10px auto;
+
+}
+
+img {
+  width: 300px;
+  float: right;
+  margin: 10px auto;
+}
+
+.header {
+  background-image: url(http://1.bp.blogspot.com/-HIlHQ80bXKQ/TydszbmyenI/AAAAAAAAA_8/1aN0oOjHG1E/s1600/wrigley.jpg);
+  color:yellow;
+  text-align:right;
+  padding:10px;
+}

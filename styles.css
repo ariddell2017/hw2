@@ -2,18 +2,30 @@ body {
   font-family: "Helvetica", sans-serif;
   width: 960px;
   margin: 10px auto;
-
+  background-color: #003300;
 }
 
 img {
-  width: 300px;
+  width: 275px;
   float: right;
-  margin: 10px auto;
+  margin: 15px auto;
 }
 
 .header {
   background-image: url(http://1.bp.blogspot.com/-HIlHQ80bXKQ/TydszbmyenI/AAAAAAAAA_8/1aN0oOjHG1E/s1600/wrigley.jpg);
   color:yellow;
   text-align:right;
-  padding:10px;
+  padding:30px;
+  margin-top: 10px;
+
+}
+.footer {
+  background-image: url(http://1.bp.blogspot.com/-HIlHQ80bXKQ/TydszbmyenI/AAAAAAAAA_8/1aN0oOjHG1E/s1600/wrigley.jpg);
+  color:yellow;
+  text-align:right;
+  padding:30px;
+  margin-bottom: 10px;
+}
+.container-fluid {
+  background-color: white;
 }
